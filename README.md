@@ -1,3 +1,3 @@
-# My first GitHub Project
+# My first GitHub Project DICE GAME
 
-This is my first Github project using Visual Studio Code.
+BASIC 2 PLAYER DICE GAME
