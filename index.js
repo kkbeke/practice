@@ -21,13 +21,13 @@ image2. setAttribute("src", randomImageSource2);
 
 
 if (randomNumber1 > randomNumber2) {
-    document.querySelector("h1").innerHTML = "Player 1 WINS!";
+    document.querySelector("h1").innerHTML = "Player 1 WINS! CLICK HERE!";
 }
 else if (randomNumber2 > randomNumber1) {
-    document.querySelector("h1").innerHTML = "Player 2 WINS!";
+    document.querySelector("h1").innerHTML = "Player 2 WINS! CLICK HERE!";
 }
 else {
-    document.querySelector("h1").innerHTML = "DRAW!!";
+    document.querySelector("h1").innerHTML = "DRAW!! CLICK HERE!";
 }
 
 function reload() {
