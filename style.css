@@ -10,7 +10,7 @@ body{
     height: 300px;
     border: 15px solid #000000;
     clear:both;
-    padding: 25px;
+    padding: 45px;
 }
 #start{
     width: 100%;
@@ -21,11 +21,10 @@ body{
 }
 #playerbox2{
     float: right;
-
 }
 
 img{
     border: 1px solid #ddd;
     border-radius: 4px;
-    width: 90px;
+    width: 120px;
 }
